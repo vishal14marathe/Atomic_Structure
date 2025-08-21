@@ -29,9 +29,9 @@ An interactive educational web application for learning about atomic structure, 
    ```
 5. Start the development server:
    ```
-   npm start
+   npm run dev 
    ```
-6. Open your browser and go to `http://localhost:3000`
+6. Open your browser and go to `http://localhost:5173`
 
 ## Usage
 
